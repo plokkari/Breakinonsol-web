@@ -195,12 +195,12 @@
 </head>
 <body>
     <section class="video-section">
-        <img src="/api/placeholder/1200/800" alt="Breaking Sol Mascots in Lab" class="mascot-image">
+        <img src="/api/Bad.gif/1200/800" alt="Breaking Sol Mascots in Lab" class="mascot-image">
     </section>
     
     <section>
         <h1 class="title">Breaking Sol</h1>
-        <img src="/api/placeholder/300/300" alt="Breaking Sol Mascot" class="about-image">
+        <img src="/api/IMG_0365.jpeg/300/300" alt="Breaking Sol Mascot" class="about-image">
         <div class="description">
             Breaking Sol is Where Pepe and Chillguy meet to make the most profit possible on the streets. The product is 99.9% pure blue crystal for max profit. Their plan is to take over the Solana universe.
         </div>
